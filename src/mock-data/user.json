@@ -1,6 +1,7 @@
 {
-  "id": "user-001",
-  "name": "Your Name",
-  "phone": "+91 98765 43210",
-  "avatarUrl": "https://i.pravatar.cc/150?img=47"
+  "id": "u1",
+  "name": "Yasha Singh",
+  "phone": "+91 9608184703",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/png?seed=Yasha&backgroundColor=b6e3f4",
+  "learningSince": "August 17, 2025"
 }

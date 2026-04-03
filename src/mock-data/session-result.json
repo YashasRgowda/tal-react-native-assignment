@@ -2,19 +2,58 @@
   "questionId": "q1",
   "questionText": "API latency is variable & app is sluggish. How do you design UI safely?",
   "companyName": "PhonePe",
+  "companyLogoUrl": "phonepe",
   "smartSummary": {
     "whatWorkedWell": [
-      "Add your bullet points here based on the Figma"
+      "Correctly identified skeleton screens as the go-to pattern for managing perceived latency.",
+      "Proposed optimistic UI updates to provide instant feedback before API confirmation.",
+      "Demonstrated strong understanding of retry logic with exponential backoff.",
+      "Mentioned SWR (stale-while-revalidate) caching to reduce redundant network calls.",
+      "Clearly articulated how to degrade gracefully when network conditions worsen."
     ],
     "overallTakeaways": [
-      "Add your bullet points here based on the Figma"
+      "Explore offline-first architecture using local-first databases like WatermelonDB.",
+      "Deep dive into React Query or SWR for advanced cache invalidation strategies.",
+      "Practice explaining the trade-off between real-time accuracy and UI smoothness.",
+      "Review how apps like Zomato and Swiggy handle variable network conditions in India.",
+      "Consider adding timeout thresholds and user-facing error states to your answer."
     ]
   },
   "keyMoments": [
     {
-      "timestamp": "01:37",
-      "description": "Add key moment description here",
+      "timestamp": "00:37",
+      "description": "Correctly explained skeleton screens to handle variable API latency effectively.",
       "type": "positive"
+    },
+    {
+      "timestamp": "01:03",
+      "description": "Clearly articulated optimistic UI updates for instant user feedback on slow networks.",
+      "type": "positive"
+    },
+    {
+      "timestamp": "01:40",
+      "description": "Accurately described exponential backoff as fundamental to building resilient retry logic.",
+      "type": "positive"
+    },
+    {
+      "timestamp": "02:28",
+      "description": "Struggled to explain cache invalidation strategies when underlying data updates frequently.",
+      "type": "negative"
+    },
+    {
+      "timestamp": "03:15",
+      "description": "Recovered well by mentioning React Query's built-in background refetching mechanism.",
+      "type": "positive"
+    },
+    {
+      "timestamp": "04:02",
+      "description": "Good mention of lazy loading and code splitting for non-critical UI components.",
+      "type": "positive"
+    },
+    {
+      "timestamp": "04:45",
+      "description": "Could have been more specific about network timeout thresholds and error boundary placement.",
+      "type": "negative"
     }
   ],
   "audioDurationSeconds": 312

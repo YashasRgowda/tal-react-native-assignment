@@ -1,7 +1,32 @@
 [
   {
-    "id": "1",
+    "id": "phonepe",
     "name": "PhonePe",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/PhonePe_Logo.svg/512px-PhonePe_Logo.svg.png"
+  },
+  {
+    "id": "amazon",
+    "name": "Amazon",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/320px-Amazon_logo.svg.png"
+  },
+  {
+    "id": "google",
+    "name": "Google",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/320px-Google_2015_logo.svg.png"
+  },
+  {
+    "id": "microsoft",
+    "name": "Microsoft",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/320px-Microsoft_logo.svg.png"
+  },
+  {
+    "id": "meta",
+    "name": "Facebook",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/320px-Facebook_Logo_%282019%29.png"
+  },
+  {
+    "id": "zomato",
+    "name": "Zomato",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Zomato_logo.png/320px-Zomato_logo.png"
   }
 ]

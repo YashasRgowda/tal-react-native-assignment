@@ -2,11 +2,101 @@
   {
     "id": "q1",
     "questionNumber": 1,
-    "companyId": "1",
+    "companyId": "phonepe",
     "companyName": "PhonePe",
-    "companyLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/PhonePe_Logo.svg/512px-PhonePe_Logo.svg.png",
+    "companyLogoUrl": "phonepe",
     "text": "API latency is variable & app is sluggish. How do you design UI safely?",
     "durationMinutes": 2,
     "completedTodayCount": 2312
+  },
+  {
+    "id": "q2",
+    "questionNumber": 2,
+    "companyId": "amazon",
+    "companyName": "Amazon",
+    "companyLogoUrl": "amazon",
+    "text": "How would you design a scalable notification system for millions of users?",
+    "durationMinutes": 3,
+    "completedTodayCount": 1847
+  },
+  {
+    "id": "q3",
+    "questionNumber": 3,
+    "companyId": "phonepe",
+    "companyName": "PhonePe",
+    "companyLogoUrl": "phonepe",
+    "text": "Explain how you would handle offline-first architecture in a payments app.",
+    "durationMinutes": 2,
+    "completedTodayCount": 1543
+  },
+  {
+    "id": "q4",
+    "questionNumber": 4,
+    "companyId": "google",
+    "companyName": "Google",
+    "companyLogoUrl": "google",
+    "text": "Design a real-time search autocomplete feature with low latency at scale.",
+    "durationMinutes": 3,
+    "completedTodayCount": 2891
+  },
+  {
+    "id": "q5",
+    "questionNumber": 5,
+    "companyId": "microsoft",
+    "companyName": "Microsoft",
+    "companyLogoUrl": "microsoft",
+    "text": "How do you implement undo/redo functionality in a collaborative document editor?",
+    "durationMinutes": 3,
+    "completedTodayCount": 1204
+  },
+  {
+    "id": "q6",
+    "questionNumber": 6,
+    "companyId": "amazon",
+    "companyName": "Amazon",
+    "companyLogoUrl": "amazon",
+    "text": "Design Amazon's real-time order tracking system for 100M daily deliveries.",
+    "durationMinutes": 4,
+    "completedTodayCount": 3102
+  },
+  {
+    "id": "q7",
+    "questionNumber": 7,
+    "companyId": "google",
+    "companyName": "Google",
+    "companyLogoUrl": "google",
+    "text": "How would you architect a ride-sharing app's real-time driver location tracking?",
+    "durationMinutes": 3,
+    "completedTodayCount": 987
+  },
+  {
+    "id": "q8",
+    "questionNumber": 8,
+    "companyId": "swiggy",
+    "companyName": "Swiggy",
+    "companyLogoUrl": "swiggy",
+    "text": "Explain A/B testing at scale without degrading user experience on a food app.",
+    "durationMinutes": 2,
+    "completedTodayCount": 1756
+  },
+  {
+    "id": "q9",
+    "questionNumber": 9,
+    "companyId": "microsoft",
+    "companyName": "Microsoft",
+    "companyLogoUrl": "microsoft",
+    "text": "How would you design a distributed caching system for a globally distributed app?",
+    "durationMinutes": 4,
+    "completedTodayCount": 823
+  },
+  {
+    "id": "q10",
+    "questionNumber": 10,
+    "companyId": "zomato",
+    "companyName": "Zomato",
+    "companyLogoUrl": "zomato",
+    "text": "Design a personalised restaurant recommendation engine for 50M daily users.",
+    "durationMinutes": 4,
+    "completedTodayCount": 4231
   }
 ]
